@@ -49,7 +49,7 @@
 - [Distributed Systems](https://www.amazon.com/gp/product/1543057381/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1543057381&linkCode=as2&tag=adilkhash-20&linkId=721aedeb23c313bc46a92c134c5baafa) by by Maarten van Steen & Andrew S. Tanenbaum
 - [CS 436: Distributed Computer Systems](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N&index=2) by University of Waterloo 
 
-### Books
+### :books: Books
 - [Design Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=adilkhash-20&linkId=e7e0e096aa5761066245eb90965ac849) by Martin Kleppmann
 - [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=adilkhash-20&linkId=74742875db503b1a899ca35159749067) by Thomas Cormen
 - [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.com/gp/product/1118530802/ref=as_li_tl?ie=UTF8&tag=adilkhash-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118530802&linkId=6ca865e8e9817dca57718bdbe5e52cd5)
